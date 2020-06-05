@@ -8,7 +8,7 @@ By Kruskal and Prim Algorithm
 - [執行檔下載](https://maxi67.github.io/projects/download/MST_algo.rar)
 
 ## 執行截圖
-<img src="img/main.png" height="300"/>
+<img src="img/main.png" height="300"/> <img src="img/run.png" height="300"/>
 
 ## Project 說明
 - 設計流程:
