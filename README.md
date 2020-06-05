@@ -5,6 +5,7 @@ By Kruskal and Prim Algorithm
 - 開發語言: Java
 - 開發平台: Eclipse
 - 應用: `Swing(GUI)`, `File I/O`
+- [執行檔下載](https://maxi67.github.io/projects/download/MST_algo.rar)
 
 ## 執行截圖
 <img src="img/main.png" height="300"/>
