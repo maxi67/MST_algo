@@ -60,7 +60,7 @@ setFont(new Font("Aharoni",Font.BOLD,25)); //決定字型、大小、粗斜體
     - 關閉檔案
 
 ## c).建立2種演算法，並能將結果套用至圖形輸出
-### Kruskal
+### Kruskal Algorithm
 - S1. 先找成本最小的邊，加入MST
 - S2. 若MST的邊還不達總點數-1，重作S1，以其次最小成本的邊加入MST，遇到迴圈要跳過
 - 要實現能依序找出最小邊，所以先將E1，E2和cost依成本由小到大排序
@@ -84,7 +84,7 @@ try
 }catch(Exception e){}
 ```
 
-### Prim
+### Prim Algorithm
 - S1. 從特定的點出發(本題為1)
 - S2. 尋找與MST相鄰當中成本最小的邊構成MST
 - S3. 若在MST內還非全部的點，則重作S2，一樣不能形成迴路
